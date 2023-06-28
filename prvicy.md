@@ -1,8 +1,8 @@
-Updated: July 7, 2022
+Updated: June 28, 2023
 
  
 
-Protecting your privacy is really important to Memories Widget. Thanks for using anniversary widget service provided by Memories Widget. Please be sure to carefully read and fully understand the following policy. When you using the service provided by Memories, you agree to have read and accepted all privacy policy; otherwise, please do not use the product.
+Protecting your privacy is really important to Call Me Home. Thanks for using anniversary widget service provided by Call Me Home. Please be sure to carefully read and fully understand the following policy. When you using the service provided by Memories, you agree to have read and accepted all privacy policy; otherwise, please do not use the product.
 
 We provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of information we receive from users of our application for mobile devices and tablet computers (the “Apps”). This Privacy Policy applies only to information that you provide to us through the App and site.
 
@@ -10,7 +10,7 @@ We provide this Privacy Policy to inform you of our policies and procedures rega
 
 How do we collect and use information?
 
-	Our primary goals in collecting information are to provide and improve our Apps, Site and related services (collectively, the “Services”). Memories Widget may require you to provide us with certain personally identifiable information. The information that we request will be retained on your device and is not collected by me in any way.
+	Our primary goals in collecting information are to provide and improve our Apps, Site and related services (collectively, the “Services”). Call Me Home may require you to provide us with certain personally identifiable information. The information that we request will be retained on your device and is not collected by me in any way.
 
 
 
@@ -66,4 +66,4 @@ Changes to This Privacy Policy
 
 Contact Us
 
-	If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at memorywidget@126.com.
+	If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at 497167404@qq.com.
